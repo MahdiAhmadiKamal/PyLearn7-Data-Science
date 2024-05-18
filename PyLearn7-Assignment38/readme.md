@@ -39,4 +39,8 @@ python california_cities.ipynb
 ```
 
 ## Python
-The programs are written using [Python](https://www.python.org/) language. 
+The programs are written using [Python](https://www.python.org/) language and the following tools:
+
+<img src="pics/numpy.png" width="300" height="128.2">
+<img src="pics/matplotlib.png" width="300" height="65.36">
+<img src="pics/pandas.png" width="300" height="121.25">
