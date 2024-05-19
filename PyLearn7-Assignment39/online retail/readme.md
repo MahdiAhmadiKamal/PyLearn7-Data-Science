@@ -8,36 +8,21 @@ Run following command:
 pip install -r requirements.txt
 ```
 
-## Banana and Apple Classification
-A virtual data set is created and analyzed.
+## Results
 
-<img src="banana and apple classification\banana_apple.jpg" width="640" height="480">
-
-### How to Run
-Execute this command in terminal:
-```
-python banana_apple_classification.ipynb
-```
-
-## Balloon and Melon Classification
-A virtual data set is created and analyzed.
-
-<img src="balloon and melon classification\balloon_melon.jpg" width="600" height="600">
+<img src="output\1.jpg" width="600" height="300">
+<img src="output\2.jpg" width="600" height="300">
+<img src="output\3.jpg" width="600" height="300">
+<img src="output\4.jpg" width="600" height="300">
+<img src="output\5.jpg" width="600" height="300">
+<img src="output\6.jpg" width="600" height="300">
+<img src="output\7.jpg" width="600" height="300">
+<img src="output\8.jpg" width="600" height="300">
 
 ### How to Run
 Execute this command in terminal:
 ```
 python online_retail.ipynb
-```
-
-## Data Science Project on Area and Population of California Cities
-In this project the size and colors of points are used to indicate the area and populations of California cities.
-<img src="California cities\california_cities.jpg" width="640" height="480">
-
-### How to Run
-Execute this command in terminal:
-```
-python california_cities.ipynb
 ```
 
 ## Python
