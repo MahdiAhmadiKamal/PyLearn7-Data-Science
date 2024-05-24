@@ -8,10 +8,10 @@ pip install -r requirements.txt
 
 ## Results
 
-<img src="Forbes billionaires of 2021 data analysis\output\1.jpg" width="1200" height="400">
+<img src="Forbes billionaires of 2021 data analysis\output\1.jpg" width="2400" height="400">
 <img src="Forbes billionaires of 2021 data analysis\output\2.jpg" width="600" height="400">
 <img src="Forbes billionaires of 2021 data analysis\output\3.jpg" width="600" height="600">
-<img src="Forbes billionaires of 2021 data analysis\output\4.jpg" width="1200" height="800">
+<img src="Forbes billionaires of 2021 data analysis\output\4.jpg" width="600" height="400">
 
 ### How to Run
 Execute this command in terminal:
