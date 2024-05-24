@@ -35,9 +35,10 @@ pip install -r requirements.txt
 
 ### How to Run
 Execute this command in terminal:
+
 ```
 python messi.ipynb
-`
+```
 
 ## Python
 The programs are written using [Python](https://www.python.org/) language and the following tools:
